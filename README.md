@@ -9,6 +9,7 @@ This application uses H2 as in-memory database to showcase, but you can also use
 2. Mapping Query & Mutations to Datafetcher
 3. Mapping field level Query to Datafetcher
 4. Defining and Registering Dataloader and dataloader registry
+5. Exception Handling
 
 ## To run this :
 `` mvn clean install ``
