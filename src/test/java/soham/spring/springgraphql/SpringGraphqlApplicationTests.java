@@ -9,5 +9,4 @@ class SpringGraphqlApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
